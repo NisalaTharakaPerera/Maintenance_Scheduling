@@ -68,7 +68,7 @@ public class DemoDataGenerator {
         final String[] JOB_AREA_NAMES = {
                 "Area 1", "Area 2", "Area 3", "Area 4", "Area 5", "Area 6", "Area 7", "Area 8", "Area 9",
                 "Area 10"};
-        final String[] JOB_TARGET_NAMES = {"Part 1", "Part 2", "Part 3", "Part 4", "Part 5"};
+        final String[] JOB_TARGET_NAMES = {"Job 1", "Job 2", "Job 3", "Job 4", "Job 5"};
 
         List<Job> jobList = new ArrayList<>();
         int jobListSize = weekListSize * crewList.size() * 3 / 5;
