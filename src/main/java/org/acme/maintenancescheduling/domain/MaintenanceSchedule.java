@@ -1,4 +1,4 @@
-package org.acme.maintenancescheduling;
+package org.acme.maintenancescheduling.domain;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
