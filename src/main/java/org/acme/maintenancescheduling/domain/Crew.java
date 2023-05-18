@@ -1,4 +1,4 @@
-package org.acme.maintenancescheduling.domain;
+package org.acme.maintenancescheduling;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
