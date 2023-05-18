@@ -1,1 +1,3 @@
-# Maintenance_Scheduling
+# Maintenance Scheduling
+
+OptaPlanner is used for this purpose
